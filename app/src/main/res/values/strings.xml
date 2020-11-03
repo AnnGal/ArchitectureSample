@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArchitectureSample</string>
+    <string name="title_mvp">MVP</string>
+    <string name="title_mvc">MVC</string>
+    <string name="title_mvvm">MVVM</string>
+    <string name="login">Login</string>
+    <string name="wrong_email_format">Wrong email format</string>
+    <string name="wrong_pass_format">Wrong password format</string>
+</resources>

@@ -6,15 +6,10 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import an.maguste.android.archsamples.R
-import an.maguste.android.archsamples.models.AuthRepositoryImpl
-import an.maguste.android.archsamples.presenter.LoginPresenterImpl
-import an.maguste.android.archsamples.presenter.LoginView
+import an.maguste.android.archsamples.ui.mvp.presenter.LoginPresenterImpl
+import an.maguste.android.archsamples.ui.mvp.presenter.LoginView
 import android.widget.Toast
 import kotlinx.android.synthetic.main.fragment_mvc.*
-import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.async
-import kotlinx.coroutines.launch
 
 class MVPFragment : Fragment(), LoginView {
 

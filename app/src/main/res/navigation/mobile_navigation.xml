@@ -19,7 +19,7 @@
 
     <fragment
         android:id="@+id/navigation_mvvm"
-        android:name="an.maguste.android.archsamples.ui.mvvc.MVVMFragment"
+        android:name="an.maguste.android.archsamples.ui.mvvm.MVVMFragment"
         android:label="@string/title_mvvm"
         tools:layout="@layout/fragment_mvvm" />
 </navigation>

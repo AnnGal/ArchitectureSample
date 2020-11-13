@@ -1,4 +1,4 @@
-package an.maguste.android.archsamples.presenter
+package an.maguste.android.archsamples.ui.mvp.presenter
 
 interface LoginPresenter {
     fun login(email: String, password: String)

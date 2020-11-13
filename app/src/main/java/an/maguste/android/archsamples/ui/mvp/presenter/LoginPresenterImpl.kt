@@ -1,4 +1,4 @@
-package an.maguste.android.archsamples.presenter
+package an.maguste.android.archsamples.ui.mvp.presenter
 
 import an.maguste.android.archsamples.R
 import an.maguste.android.archsamples.models.AuthRepositoryImpl
